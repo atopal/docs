@@ -30,7 +30,9 @@
           <p>CSS files are copied to the root level of the output folder by default. Setting this parameter places CSS
             files in a dedicated subfolder.</p></li>
       </ul>
-      <p>All three parameters are set in the Ant script (<filepath>build.xml</filepath>).</p>
+      <p>All
+        <?oxy_comment_start author="Kadir Topal" timestamp="20180920T093510+0000" comment="just testing"?>3<?oxy_comment_end?>
+        parameters are set in the Ant script (<filepath>build.xml</filepath>).</p>
     </context>
     <steps>
       <step>
